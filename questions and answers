@@ -1,0 +1,5 @@
+What process did you follow for creating the dockerfile?
+    i referenced the notes you used in class and also the starter dockerfile that docker has on their website to help guide me in what i needed in the file. 
+
+What docker commands did you use to run the image?
+    i used "docker build -t myfile ."  and "docker run -p 5000:5000 myfile"
